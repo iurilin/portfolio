@@ -30,7 +30,7 @@ const ProfileSection = () => {
         
         <p className="text-muted-foreground mb-8 max-w-md leading-relaxed">
           Desenvolvedor apaixonado por criar soluções inovadoras com tecnologias modernas. 
-          Especializado em desenvolvimento web e mobile.
+          Especializado em desenvolvimento Fullstack.
         </p>
 
         {/* Action Buttons */}
