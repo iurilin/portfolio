@@ -9,8 +9,7 @@ const Projects = () => {
       description: "Biblioteca pessoal desenvolvida para arquivar livros",
       longDescription: "Uma aplicação completa desenvolvida com Spring Boot no backend e React no frontend. Inclui funcionalidades como salvar livros e alterar seus status de 'lido', 'lendo' e 'quero ler'. Uma API foi desenvolvida para consumir outra API do Google 'Google Books', em seguida foi feito o tratamento de dados dos livros trazidos pela api, junto de todo um desenvolvimento de endpoints para todo tipo de busca e salvamento dos livros no bando de dados.",
       technologies: ["Java", "Spring Boot", "React", "PostgreSQL"],
-      githubUrl: "https://github.com/iurilin/react-library",
-      liveUrl: "https://meu-ecommerce.com"
+      githubUrl: "https://github.com/iurilin/react-library"
     },
     {
       id: "2",
